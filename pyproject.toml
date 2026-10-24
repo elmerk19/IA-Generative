@@ -1,0 +1,14 @@
+[project]
+name = "tp2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "torch>=2.14.1",
+    "torcheval>=0.0.7",
+    "torchvision>=0.29.1",
+]
